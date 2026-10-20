@@ -1,0 +1,5 @@
+# Временные файлы 1С
+*.1cD
+*.1cL
+*.log
+ConfigDumpInfo.xml
